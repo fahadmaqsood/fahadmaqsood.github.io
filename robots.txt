@@ -1,6 +1,6 @@
 User-Agent: *
 Disallow: 
-Disallow: /
+Allow: /latin-sindhi/
 Allow: /latin-sindhi/index.html
 Allow: /latin-sindhi/download/windows.html
 Allow: /latin-sindhi/download/android.html
