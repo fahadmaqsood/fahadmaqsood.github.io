@@ -1,5 +1,7 @@
 User-Agent: *
 Disallow: 
+Allow: /quotes.html
+Allow: /images/
 Allow: /latin-sindhi/
 Allow: /latin-sindhi/index.html
 Allow: /latin-sindhi/download/windows.html
