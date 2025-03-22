@@ -1,4 +1,4 @@
-# Asad's Homepage
+# Fahad's Homepage
 
 This site is made using NextJS and GitHub Pages. GitHub automatically exports a static build for NextJS into HTML and serves it. I just needed to enable pages from the repo settings.
 
